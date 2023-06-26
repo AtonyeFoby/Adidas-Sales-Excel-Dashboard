@@ -1,3 +1,3 @@
 # Adidas Sales Dashboard with Excel
 
-This repository contains all my excel dashboards. All of the data was cleaned, analyzed and visualized.
+This repository contains and analysis of sales data from Adidas and proper visualization indicating all key metrics, represented on a dashboard. All of the data was cleaned, analyzed and visualized.
